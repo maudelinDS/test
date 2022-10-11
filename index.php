@@ -12,14 +12,14 @@
     <title>Home</title>
 </head>
 
-<body>
-    <container>
 
         <?php require "./php/navBar.php" ?>
 
 
         <h1>Delescaut Maudelin</h1>
-<h2>hello hello <h2>
+<h2>hello hello <h2
+
+<h3> lorem <h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, a dolorem? Eum aliquam fugit quam, culpa ea facere tempore? Accusantium placeat enim et quo, voluptatem mollitia nulla debitis dignissimos excepturi!</p>
         <ul>
             <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</li>
